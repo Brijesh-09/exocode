@@ -18,6 +18,13 @@ Ran the Docker Image locally for testing
 
 Working fine
 
+```Terraform init```
+
+```Terraform Plan```
+
+```Terraform apply```
+
+
 Created Two Terraform files differnt approach for each files described in the Daigram 
 
 *Daigram*
