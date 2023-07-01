@@ -21,3 +21,5 @@ Working fine
 Created Two Terraform files differnt approach for each files described in the Daigram 
 
 *Daigram*
+![Flow](https://github.com/Brijesh-09/exocode/blob/main/architecture.png)
+
